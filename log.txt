@@ -33,3 +33,5 @@ To center the button within the column I needed to use display: block margins: a
 I'm going to see what I can do now using the new carousel feature in bootstrap.
 
 Carousel looks good!
+
+Now that the carousel has been laid out I'd like to link the landing page to the home page
