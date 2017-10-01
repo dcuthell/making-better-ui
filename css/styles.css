@@ -1,69 +1,9 @@
-body{
+
+
+body {
   background: url('../img/pic1.jpeg');
   background-repeat:no-repeat;
-  background-size:contain;
-  background-position:center;
+  background-size: cover;
+  background-position: auto;
 }
-
-@keyframes flashred{
-  0% {color: black;}
-  50% {color: red;}
-  100% {color: black;}
-}
-
-#header h1{
-  /*color: green;*/
-  text-align: center;
-  animation: flashred 5s infinite;
-}
-
-img{
-  display: block;
-  margin: 0px auto;
-}
-
-.buttonLink{
-    display: block;
-}
-
-@media screen and (min-width: 768px) {
-
-}
-
-@media screen and (min-width: 992px) {
-
-}
-
-@media screen and (min-width: 1200px) {
-  #left{
-    margin-left: 90px;
-  }
-  #right{
-    margin-right: 90px;
-  }
-  #center{
-    margin-left: 45px;
-    margin-right: 45px;
-  }
-}
-
-#myCol{
-  margin-bottom: 0px;
-}
-
-.emailIcon{
-  float: right;
-  padding-top: 2px;
-  padding-right: 0px;
-  margin-right: 05px;
-  margin-left: -25px;
-}
-
-.fbIcon{
-  height: 20px;
-  width: 20px;
-  margin-bottom: 0px;
-  margin-right: 3px;
-  margin-left: -25px;
-  float: right;
-}
+/* Used cover for background-size to adjust to window size, auto for positioniong */
