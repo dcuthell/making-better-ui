@@ -1,8 +1,6 @@
 $(document).ready(function(){
-    $(".home").hover(function() {
-      $(this).attr("src","img/pic1.jpeg");
-    },
-        function() {
-          $(this).attr("src","img/pic3.jpg");
-    });
+  $("#enter-button").click(function() {
+    alert("hi");
+    $(document.body).css("background-image", "../img/pic4.jpg");
+  });
 });

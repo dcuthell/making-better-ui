@@ -37,3 +37,7 @@ Carousel looks good!
 Now that the carousel has been laid out I'd like to link the landing page to the home page.
 
 I discovered that I can make text responsive by setting font size to a vh or vw! Apparently vmin and vmax can also be used to take the smallest or largest of the two values, respectively.
+
+I've noticed that the carousel cards don't match up very well with the original background image; They all block out my uncle, the owner of website's domain name! I'm going to need to change the background on the home page.
+
+..Still working on getting the background image to change >:( 
