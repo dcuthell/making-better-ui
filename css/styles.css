@@ -8,3 +8,12 @@ body {
   background-position: auto;
 }
 /* Used cover for background-size to adjust to window size, auto for positioniong */
+#enter-button {
+  vertical-align: center;
+  position: absolute;
+  width: 30%;
+  min-height: 40px;
+  height: 10%;
+  top: 5%;
+  right: 34%;
+}
