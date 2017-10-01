@@ -21,6 +21,7 @@ body {
   width: 80%;
   height: 30%;
   border-color: background-color: #BBDDDD;
+  font-size: 4vw;
 }
 
 #enter-button:hover {
@@ -33,5 +34,5 @@ body {
 }
 
 #card1 {
-  
+
 }

@@ -34,4 +34,6 @@ I'm going to see what I can do now using the new carousel feature in bootstrap.
 
 Carousel looks good!
 
-Now that the carousel has been laid out I'd like to link the landing page to the home page
+Now that the carousel has been laid out I'd like to link the landing page to the home page.
+
+I discovered that I can make text responsive by setting font size to a vh or vw! Apparently vmin and vmax can also be used to take the smallest or largest of the two values, respectively.
