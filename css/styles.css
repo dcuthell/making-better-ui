@@ -26,3 +26,12 @@ body {
 #enter-button:hover {
   background-color: #BBDDDD;
 }
+
+.profile-div {
+  height: 100vh;
+  width: 100vw;
+}
+
+#card1 {
+  
+}

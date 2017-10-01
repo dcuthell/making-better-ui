@@ -29,3 +29,7 @@ I figured out how to adjust row heights! By using height: 50vh you can set the h
 It took some playing around, but I'm now pretty happy with how the enter button is positioned. The width is set to be the width of the containing column, and the height is a percentage of the view height...Wait, a better solution! I've now set the height to be a percentage of the width. This looks a lot better, and should look better on mobile as well.
 
 To center the button within the column I needed to use display: block margins: auto.
+
+I'm going to see what I can do now using the new carousel feature in bootstrap.
+
+Carousel looks good!
