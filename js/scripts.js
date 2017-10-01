@@ -1,6 +1,6 @@
 $(document).ready(function(){
-  $("#enter-button").click(function() {
-    alert("hi");
-    $(document.body).css("background-image", "../img/pic4.jpg");
+  $("#enter-button").click(function(event) {
+    event.preventDefault();
+    $('body').css('background-image', 'url("./img/pic4.jpg")');
   });
 });

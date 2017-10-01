@@ -40,4 +40,4 @@ I discovered that I can make text responsive by setting font size to a vh or vw!
 
 I've noticed that the carousel cards don't match up very well with the original background image; They all block out my uncle, the owner of website's domain name! I'm going to need to change the background on the home page.
 
-..Still working on getting the background image to change >:( 
+..Still working on getting the background image to change >:( ...It looks like a few things were off. For starters, I was missing the url part of the background-image line. I also discovered that while the css file references the img file with a ../, the jquery css function find img with a ./. Finally, the change won't be made without event.preventDefault(), but with event.preventDefault() the address won't change...
