@@ -23,3 +23,5 @@ There's plenty of material to go through for the latest version of bootstrap. I'
 I'm going to start by figuring out how to set a background image that will resize on all devices
 
 I've got the background image working nicely. It will resize according to the browser window, and if there is any blank space a background color will get filled in. I'm now working on a button that will lead to the landing page to the home page that will look good both on small and large screens.
+
+I figured out how to adjust row heights! By using height: 50vh you can set the height to 50% of the view height. It looks like vw is for view width.

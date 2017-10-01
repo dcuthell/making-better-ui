@@ -8,12 +8,27 @@ body {
   background-position: auto;
 }
 /* Used cover for background-size to adjust to window size, auto for positioniong */
+
+#home-row {
+  height: 33vh;
+}
+
 #enter-button {
   vertical-align: center;
-  position: absolute;
-  width: 30%;
-  min-height: 40px;
-  height: 10%;
-  top: 5%;
-  right: 34%;
+}
+
+p {
+  font-size: 42px;
+  color: red;
+}
+
+@include media-breakpoint-up(sm) {
+  p {
+    font-size: 28px;
+    color: blue;
+  }
+
+  #enter-button {
+    font-size: 42px;
+  }
 }
