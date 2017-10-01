@@ -18,9 +18,7 @@ Page wide styling
   background-image: url('../img/pic4.jpg');
   background-repeat: repeat-y;
   background-size: cover;
-  background-position: auto;
-  width: 100vw;
-  height: 100vh;
+  background-position: center;
 }
 /* Used cover for background-size to adjust to window size, auto for positioniong */
 
