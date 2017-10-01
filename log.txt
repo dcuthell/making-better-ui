@@ -11,3 +11,11 @@ https://www.smashingmagazine.com/tag/css/ - Articles
 http://learnlayout.com/ - Quick layout tips
 
 After about an hour of browsing around, I've learned a few things. First, everybody says the best way to get good at CSS is to practice it regularly. Second, there is a ton of information out there, and while guides like learnlayout are good for a few basic tips, I'll probably be better off by diving in and figuring out what I need to learn as I go along. Third, not using a CSS framework seems like a missed opportunity. After accidentally referencing the latest version of bootstrap while working on projects in the best, I think now is the time to update to the latest version and learn a few new things.
+
+There's plenty of material to go through for the latest version of bootstrap. I'm interested in seeing what I can do with "cards". Before I dive into reworking the website, I'd like to figure out exactly what I'm trying to do. I know the website must:
+1. Have a basic landing page that connects to all other pages
+2. Be mobile friendly
+3. Be easy to read and navigate
+4. Have a good color scheme
+5. Have a personal page for myself, my cousin, and my uncle.
+5. Have personal pages be 1 click away from landing page.
