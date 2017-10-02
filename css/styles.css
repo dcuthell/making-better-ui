@@ -19,6 +19,8 @@ Page wide styling
   background-repeat: repeat-y;
   background-size: cover;
   background-position: center;
+  width: 100vw;
+  height: 100vh;
 }
 /* Used cover for background-size to adjust to window size, auto for positioniong */
 
@@ -34,6 +36,17 @@ Specific Element Styling
   height: 33vw;
 }
 
+#carouselExampleIndicators {
+  height: 90%;
+}
+
+#cards{
+  height: 100%;
+}
+
+.carousel-item {
+  height: 100%;
+}
 
 #enter-button {
   display: block;
@@ -53,8 +66,9 @@ Specific Element Styling
 
 
 .profile-div {
-  height: 100vh;
-  width: 100vw;
+  height: 100%;
+  width: auto;
+  align-items: center;
 }
 
 #card1 {
