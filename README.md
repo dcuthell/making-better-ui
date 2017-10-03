@@ -10,6 +10,7 @@ _I decided to take the day to create a better UI for a family website I had been
 
 ## Setup/Installation Requirements
 
+* _Check out the old site at http://www.cuthell.com_
 * _Check out the log.txt file_
 * _Check out the reflections.txt file_
 * _Go to https://dcuthell.github.io/making-better-ui/ to check out the page's progress_
